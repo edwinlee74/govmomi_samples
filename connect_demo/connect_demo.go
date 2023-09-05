@@ -16,7 +16,7 @@ func main() {
 	const (
 		ip       = "vcenter6.myad.lab"
 		user     = "administrator@vsphere.local"
-		password = "P@ssw0rd"
+		password = "password"
 	)
 
 	vURL := &url.URL{
